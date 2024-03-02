@@ -1,0 +1,58 @@
+ .health-tab-form {
+    width: 600px;
+    margin: 0 auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .health-tab-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .health-tab-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .health-tab-form input,
+  .health-tab-form select {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .health-tab-form input[type="checkbox"] {
+    width: 100%;
+  }
+  .health-tab-form button[type="submit"] {
+    width: 100%;
+    padding: 5px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .health-tab-form button {
+    width: 100%;
+    padding: 5px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+ 
+  .health-tab-form p {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .health-tab-form p a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .health-tab-form p a:hover {
+    text-decoration: underline;
+  } 
